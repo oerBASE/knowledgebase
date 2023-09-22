@@ -40,12 +40,6 @@ jobs:
         with:
           command: x
           files: doctave-0.4.2-x86_64-unknown-linux-musl.tar.gz
-      # TODO: compile
-#      - uses: supplypike/setup-bin@v3
-#        with:
-#          uri: 'https://github.com/Doctave/doctave/releases/download/0.4.2/doctave-0.4.2-x86_64-unknown-linux-musl.tar.gz'
-#          name: 'doctave'
-#          version: '0.4.2'
       - name: build static html site
         run: ./doctave-0.4.2-x86_64-unknown-linux-musl/doctave build --release
       - name: Setup Pages

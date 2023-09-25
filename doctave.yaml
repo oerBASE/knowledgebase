@@ -8,6 +8,6 @@ navigation:
   - path: docs/example.md
   - path: docs/repositories
     children: "*"
-  - path: docs/examples.md
-  - path: docs/examples
+  - path: docs/README.md
+  - path: docs/README.md
     children: "*"

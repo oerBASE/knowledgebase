@@ -1,13 +1,3 @@
 ---
 title: "OER Knowledgebase"
 base_path: /knowledgebase
-
-
-navigation:
-  - path: docs/README.md
-  - path: docs/example.md
-  - path: docs/repositories
-    children: "*"
-  - path: docs/README.md
-  - path: docs/README.md
-    children: "*"

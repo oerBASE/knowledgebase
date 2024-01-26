@@ -1,5 +1,2 @@
----
-title: NAVI2
----
-
+# Bad Navi 2
 navi 2 >:-(

@@ -1,0 +1,10 @@
+site_name: OER Knowledge Base
+site_url: https://oerbase.github.io/knowledgebase
+nav:
+- Home: examples.md
+- Section1: navigation1/README.md
+  - navigation1/some-other-site.md
+- Section2: navigation2/README.md
+  - only-site-in-nav2.md
+  - kreativ.md
+

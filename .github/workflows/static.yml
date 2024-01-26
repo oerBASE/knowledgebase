@@ -1,55 +1,18 @@
-# Simple workflow for deploying static content to GitHub Pages
-name: Deploy doctave site to Pages
-
+name: Publish docs via GitHub Pages
 on:
-  # Runs on pushes targeting the default branch
   push:
-    branches: ["main"]
-
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
-
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-# Allow only one concurrent deployment, cancel in-progress runs is necessary.
-concurrency:
-  group: "pages"
-  cancel-in-progress: true
+    branches:
+      - main
 
 jobs:
-  # Single deploy job since we're just deploying
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+  build:
+    name: deploy docs
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout main
         uses: actions/checkout@v3
-      - name: wget
-        uses: wei/wget@v1
-        with:
-          args: https://github.com/Doctave/doctave/releases/download/0.4.2/doctave-0.4.2-x86_64-unknown-linux-musl.tar.gz
-      - name: Extract files
-        uses: a7ul/tar-action@v1.1.0
-        id: extract
-        with:
-          command: x
-          files: doctave-0.4.2-x86_64-unknown-linux-musl.tar.gz
-      - name: build static html site
-        run: ./doctave-0.4.2-x86_64-unknown-linux-musl/doctave build --release
-      - name: Setup Pages
-        uses: actions/configure-pages@v3
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
-        with:
-          # Upload entire repository
-          path: './site'
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v2
-      #TODO: push back to main?
+      - name: Deploy MkDocs
+        uses: mhausenblas/mkdocs-deploy-gh-pages@1.26
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+

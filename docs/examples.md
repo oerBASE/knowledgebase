@@ -5,6 +5,7 @@ title: Examples
 Examples
 ========
 
+hi
 This page shows some of the special features that come out of the box in Doctave. You can view how
 this file is constructed by opening the `examples.md` file in your `docs` folder.
 

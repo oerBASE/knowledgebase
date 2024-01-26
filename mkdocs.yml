@@ -1,6 +1,7 @@
 site_name: OER Knowledge Base
 site_url: https://oerbase.github.io/knowledgebase
 theme:
+  name: material
   palette:
     scheme: slate
     primary: orange

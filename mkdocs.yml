@@ -3,8 +3,8 @@ site_url: https://oerbase.github.io/knowledgebase
 nav:
 - Home: examples.md
 - Section1: navigation1/README.md
-  - navigation1/some-other-site.md
+- test1: navigation1/some-other-site.md
 - Section2: navigation2/README.md
-  - only-site-in-nav2.md
-  - kreativ.md
+- test2: navigation2/only-site-in-nav2.md
+- test3: navigation2/kreativ.md
 

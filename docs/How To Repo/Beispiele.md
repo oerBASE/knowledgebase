@@ -1,3 +1,6 @@
+# Beispiele: 
+Repositorien, die im Projekt OEAA aufgesetzt und in den regulären Betrieb überführt wurden:
+
 # [Innsbruck](#Innsbruck)
 # [Graz](#graz)
 # [Klagenfurt](#klagenfurt)
@@ -5,9 +8,9 @@
 # [Wien](#wien)
 
 ## Innsbruck
-**OER-Repositorium der Universität Wien**
+**OER-Repositorium der Universität Innsbruck**
 
-Repositorien, die im Projekt aufgesetzt und in den regulären Betrieb überführt wurden:
+
 
 OER-Repositorium der Universität Innsbruck: [www.oer-repo.uibk.ac.at](www.oer-repo.uibk.ac.at)
 

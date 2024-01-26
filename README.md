@@ -3,11 +3,9 @@ helpful information for designing, setting up and maintaining a repository for o
 https://oerbase.github.io/knowledgebase
 
 ## How does it work?
-The OER Knowledgebase uses [doctave](https://www.doctave.com/) as a static site generator.
+The OER Knowledgebase uses [mkdocs](https://www.mkdocs.org) as a static site generator.
 
 The content in this git repository is converted into static `html` with some `css` styling, some `javascript` (for search, flowcharts and syntax highlighting, but the site also works without `javascript`).
-
-For more information on doctave's features please visit: https://cli.doctave.com/features/
 
 ## TL;DR - How do i submit changes?
 1) [Fork](https://github.com/oerBASE/knowledgebase/fork) this repo (or apply for developer status on this repo and make a [branch](https://github.com/oerBASE/knowledgebase/branches).)

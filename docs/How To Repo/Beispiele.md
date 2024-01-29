@@ -1,15 +1,15 @@
 # Beispiele: 
 Repositorien, die im Projekt OEAA aufgesetzt und in den regulären Betrieb überführt wurden:
 
-# [Uni Innsbruck](#UniInnsbruck)
-# [Uni Wien](#UniWien)
-# [Uni Graz](#UniGraz)
-# [Uni Klagenfurt](#UniKlagenfurt)
-# [Uni Graz](#TUgraz)
+# [Uni Innsbruck](#Innsbruck)
+# [Uni Wien](#Wien)
+# [Uni Graz](#Graz-Uni)
+# [Uni Klagenfurt](#Klagenfurt)
+# [TU Graz](#Graz-TU)
 
 
 
-## UniInnsbruck
+## Innsbruck
 
 **OER-Repositorium der Universität Innsbruck**
 
@@ -41,7 +41,8 @@ Das Repositorium wird über die OAI-PMH Schnittstelle geharvestet. Wir wissen, d
 - **Authentifizierung:** Shibboleth
 - **Software Version:** 8.1
 
-## UniGraz
+## Graz-Uni
+
 **OER-Repositorien der Universität Graz**
 
 Repositorien, die im Projekt aufgesetzt und in den regulären Betrieb überführt wurden:
@@ -75,9 +76,9 @@ Update auf neuere Version mit Umstellung auf Kubernetes. Anbindung unseres LMS M
 
 **Setup**
 
-<!-- Hier können Sie weitere Informationen zu Klagenfurt hinzufügen -->
+<!-- Hier können Sie weitere Informationen zu Repo Klagenfurt hinzufügen -->
 
-## TUGraz
+## Graz-TU
 **OER-Repositorium der technischen Universität Graz**
 
 **Konzept**
@@ -90,9 +91,10 @@ Update auf neuere Version mit Umstellung auf Kubernetes. Anbindung unseres LMS M
 
 **Setup**
 
-<!-- Hier können Sie weitere Informationen zu Graz2 hinzufügen -->
+<!-- Hier können Sie weitere Informationen zu Repo Graz2 hinzufügen -->
 
-## UniWien
+## Wien
+
 **OER-Repositorium der technischen Universität Graz**
 
 **Konzept**
@@ -105,4 +107,4 @@ Update auf neuere Version mit Umstellung auf Kubernetes. Anbindung unseres LMS M
 
 **Setup**
 
-<!-- Hier können Sie weitere Informationen zu Graz2 hinzufügen -->
+<!-- Hier können Sie weitere Informationen zu Repo WIen hinzufügen -->

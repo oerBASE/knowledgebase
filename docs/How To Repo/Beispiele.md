@@ -1,13 +1,16 @@
 # Beispiele: 
 Repositorien, die im Projekt OEAA aufgesetzt und in den regulären Betrieb überführt wurden:
 
-# [Uni Innsbruck](#Uni Innsbruck)
-# [Uni Graz](#Uni Graz)
-# [Uni Klagenfurt](#Uni Klagenfurt)
-# [TU Graz](#TU Graz)
-# [Uni Wien](#Uni Wien)
+# [Innsbruck](#UniInnsbruck)
+# [Wien](#UniWien)
+# [Graz](#UniGraz)
+# [Klagenfurt](#UniKlagenfurt)
+# [Graz](#TUgraz)
 
-## Innsbruck
+
+
+## UniInnsbruck
+
 **OER-Repositorium der Universität Innsbruck**
 
 
@@ -38,7 +41,7 @@ Das Repositorium wird über die OAI-PMH Schnittstelle geharvestet. Wir wissen, d
 - **Authentifizierung:** Shibboleth
 - **Software Version:** 8.1
 
-## Graz
+## UniGraz
 **OER-Repositorien der Universität Graz**
 
 Repositorien, die im Projekt aufgesetzt und in den regulären Betrieb überführt wurden:
@@ -59,7 +62,7 @@ Ist das Edusharing Repo der Universität Graz. Eingerichtet mit Hilfe von Metave
 Geplant (Q1/24):
 Update auf neuere Version mit Umstellung auf Kubernetes. Anbindung unseres LMS Moodle (metaventis hat tinymce editor plugin geplant)
 
-## Klagenfurt
+## UniKlagenfurt
 **OER-Repositorium der Universität Klagenfurt**
 
 **Konzept**
@@ -74,7 +77,7 @@ Update auf neuere Version mit Umstellung auf Kubernetes. Anbindung unseres LMS M
 
 <!-- Hier können Sie weitere Informationen zu Klagenfurt hinzufügen -->
 
-## Graz2
+## TUGraz
 **OER-Repositorium der technischen Universität Graz**
 
 **Konzept**
@@ -89,7 +92,7 @@ Update auf neuere Version mit Umstellung auf Kubernetes. Anbindung unseres LMS M
 
 <!-- Hier können Sie weitere Informationen zu Graz2 hinzufügen -->
 
-## Wien
+## UniWien
 **OER-Repositorium der technischen Universität Graz**
 
 **Konzept**

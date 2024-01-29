@@ -95,7 +95,7 @@ Update auf neuere Version mit Umstellung auf Kubernetes. Anbindung unseres LMS M
 
 ## Wien
 
-**OER-Repositorium der technischen Universität Graz**
+**OER-Repositorium der Universität Wien**
 
 **Konzept**
 

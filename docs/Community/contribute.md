@@ -5,4 +5,12 @@ Freie Bildungsmaterialien leben von gemeinschaftlichem Beitragen auf allen Ebene
 Hier entsteht eine Sammlung von Community Activies im Kontext OER: 
 
 - Tech Barcamps
+- OER Repo AG
+- Edu-sharing AG
+
+## Aggregatoren: 
+
+- OERhub
+- OERsi
+- ...
 - 

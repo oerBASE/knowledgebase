@@ -1,4 +1,4 @@
-# Beispiele: 
+# Beispiele unterschiedlicher OER Repositorien
 Repositorien, die im Projekt OEAA aufgesetzt und in den regulären Betrieb überführt wurden:
 
 # [Uni Innsbruck](#Innsbruck)
@@ -7,6 +7,7 @@ Repositorien, die im Projekt OEAA aufgesetzt und in den regulären Betrieb über
 # [Uni Klagenfurt](#Klagenfurt)
 # [TU Graz](#Graz-TU)
 
+Contributions welcome! Gerne stellen wir hier auch andere Repositorien mit Konzept, Software und Setup vor! 
 
 
 ## Innsbruck

@@ -1,4 +1,4 @@
-# Knowledgebase über Repositorien für freie Bildungsmaterialien (OER) 
+# Willkommen!
 
 In dieser Wissensdatenbank sammeln wir Informationen und Ressourcen zu Open Educational Resources (OER) Repositorien. Ziel ist es, eine Anlaufstelle für alle zu sein, die sich mit Konzeption, (Weiter-)Eintwicklung und Betrieb von OER-Repositorien befassen. Wir decken ein breites Spektrum an Themen ab, das sowohl technische als auch organisatorische Aspekte umfasst.
 

@@ -7,4 +7,4 @@ theme:
     primary: orange
 markdown_extensions:
 - pymdownx.tasklist:
-    custom_checkbox: true
+    custom_checkbox: false

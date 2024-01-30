@@ -101,4 +101,6 @@ Bei der Konzeption eines OER Repositoriums sind nicht nur technische sondern auc
 
 
 
-- Text "An der Schnittstelle" - OER Repositorien und ihre institutionelle Verankerung
+# Zum Nachlesen
+
+Text "An der Schnittstelle" - OER Repositorien und ihre institutionelle Verankerung

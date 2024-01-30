@@ -10,7 +10,7 @@ Bei der Konzeption eines OER Repositoriums sind nicht nur technische sondern auc
 
 **Hardware und Setup**
 
-- [ ] Anzahl der erwarteten/gewünschten User
+[ ] Anzahl der erwarteten/gewünschten User
 - [ ] Erwarteter/gewünschter Traffic
 - [ ] Erwartete Last
 - [ ] Anforderungen an Availability (HA Setup)

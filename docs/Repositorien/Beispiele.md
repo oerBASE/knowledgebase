@@ -4,7 +4,7 @@ Hier gibt es eine Auflistung unterschiedlicher Setups und Konzepte für OER Repo
 
 *Contributions welcome - gerne stellen wir hier auch andere Repositorien mit Konzept, Software und Setup vor!*
 
-# Universität Innsbruck
+## Universität Innsbruck
 
 OER-Repositorium der Universität Innsbruck: [www.oer-repo.uibk.ac.at](www.oer-repo.uibk.ac.at)
 
@@ -32,7 +32,7 @@ Das Repositorium wird über die OAI-PMH Schnittstelle geharvestet. Wir wissen, d
 - **Authentifizierung:** Shibboleth
 - **Software Version:** 8.1
 
-# Universität Graz
+## Universität Graz
 
 OER-Repositorium der Universität Graz: [https://oer-portal.uni-graz.at/edu-sharing/](https://oer-portal.uni-graz.at/edu-sharing/)
 
@@ -50,7 +50,7 @@ Ist das Edusharing Repo der Universität Graz. Eingerichtet mit Hilfe von Metave
 Geplant (Q1/24):
 Update auf neuere Version mit Umstellung auf Kubernetes. Anbindung unseres LMS Moodle (metaventis hat tinymce editor plugin geplant)
 
-# Universität Klagenfurt
+## Universität Klagenfurt
 
 **Konzept**
 
@@ -64,7 +64,7 @@ Update auf neuere Version mit Umstellung auf Kubernetes. Anbindung unseres LMS M
 
 <!-- Hier können Sie weitere Informationen zu Repo Klagenfurt hinzufügen -->
 
-# Technische Universität Graz**
+## Technische Universität Graz**
 
 **Konzept**
 
@@ -78,7 +78,7 @@ Update auf neuere Version mit Umstellung auf Kubernetes. Anbindung unseres LMS M
 
 <!-- Hier können Sie weitere Informationen zu Repo Graz2 hinzufügen -->
 
-# Universität Wien**
+## Universität Wien**
 
 **Konzept**
 

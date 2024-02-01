@@ -1,5 +1,4 @@
 # Konzeption
-# eines OER Repositoriums
 
 Bei der Konzeption eines OER Repositoriums sind nicht nur technische sondern auch organisatorische Aspekte zu beachten. Wir haben diese Überlegungen während des Planungs- und Umsetzungsprozesses gesammelt und zu einer Checkliste zusammengestellt. 
 

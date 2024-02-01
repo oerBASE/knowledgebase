@@ -5,8 +5,6 @@ Bei der Konzeption eines OER Repositoriums sind nicht nur technische sondern auc
 ## Checkliste: 
 
 
-
-
 **Hardware und Setup**
 
 - [ ] Anzahl der erwarteten/gewünschten User
@@ -98,8 +96,11 @@ Bei der Konzeption eines OER Repositoriums sind nicht nur technische sondern auc
 - [ ] Können Nutzungsbedingungen, Uploadrichtlinien und Leitlinien für die Lizensierung bereitgestellt werden? 
 
 
+## Zum Nachlesen
 
+C. Hackl, Chr. Ladurner, A. Parschalk, J. Schindler, M. Schmid, R. Ganguly, O. Gröblinger in *Handbuch Repositorienmanagement, Hg. v. Blumesberger et al*
 
-# Zum Nachlesen
+**An der Schnittstelle von E-Learning-Zentren, Zentralen IT-Services und Bibliotheken** - 
+Interdisziplinäre Zusammenarbeit zur Entwicklung einer nationalen Infrastruktur für Open Educational Resources (OER) aus dem österreichischen Hochschulraum. 
 
-Text "An der Schnittstelle" - OER Repositorien und ihre institutionelle Verankerung
+Open Educational Resources (OER) etablieren sich in der Lehre aktuell analog zu offenen Praktiken in Wissenschaft und Forschung. Open Education Austria Advan-ced1, ein Projekt österreichischer Universitäten, unterstützt diese Entwicklung mit dem gemeinsamen Aufbau eines Gesamtpakets für OER: der Ausbau lokaler OER-Repositorien und einer Meta-Suchmaschine (OERhub), sowie begleitende Maßnah-men wie Zertifizierung, Qualifizierung und der Wissenstransfer zwischen beteilig-ten und interessierten Hochschulen. Die erfolgreiche Umsetzung dieses Vorhabens bedingt die Zusammenarbeit von E-Learning-Zentren, Zentralen IT-Services und Bibliotheken. Der folgende Beitrag thematisiert die Arbeit an dieser Schnittstelle inklusive der unterschiedlichen Herangehensweisen und Anforderungen der Be-teiligten.

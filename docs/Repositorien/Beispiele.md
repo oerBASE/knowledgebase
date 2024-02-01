@@ -1,21 +1,10 @@
 # Beispiele
-# unterschiedlicher OER Repositorien
-Repositorien, die im Projekt OEAA aufgesetzt und in den regulären Betrieb überführt wurden:
 
-# [Uni Innsbruck](#Innsbruck)
-# [Uni Wien](#Wien)
-# [Uni Graz](#Graz-Uni)
-# [Uni Klagenfurt](#Klagenfurt)
-# [TU Graz](#Graz-TU)
+Hier gibt es eine Auflistung unterschiedlicher Setups und Konzepte für OER Repositorien, die im Projekt OEAA aufgesetzt und in den regulären Betrieb überführt wurden:
 
 *Contributions welcome - gerne stellen wir hier auch andere Repositorien mit Konzept, Software und Setup vor!*
 
-
-## Innsbruck
-
-**OER-Repositorium der Universität Innsbruck**
-
-
+# Universität Innsbruck
 
 OER-Repositorium der Universität Innsbruck: [www.oer-repo.uibk.ac.at](www.oer-repo.uibk.ac.at)
 
@@ -43,11 +32,7 @@ Das Repositorium wird über die OAI-PMH Schnittstelle geharvestet. Wir wissen, d
 - **Authentifizierung:** Shibboleth
 - **Software Version:** 8.1
 
-## Graz-Uni
-
-**OER-Repositorien der Universität Graz**
-
-Repositorien, die im Projekt aufgesetzt und in den regulären Betrieb überführt wurden:
+# Universität Graz
 
 OER-Repositorium der Universität Graz: [https://oer-portal.uni-graz.at/edu-sharing/](https://oer-portal.uni-graz.at/edu-sharing/)
 
@@ -65,8 +50,7 @@ Ist das Edusharing Repo der Universität Graz. Eingerichtet mit Hilfe von Metave
 Geplant (Q1/24):
 Update auf neuere Version mit Umstellung auf Kubernetes. Anbindung unseres LMS Moodle (metaventis hat tinymce editor plugin geplant)
 
-## UniKlagenfurt
-**OER-Repositorium der Universität Klagenfurt**
+# Universität Klagenfurt
 
 **Konzept**
 
@@ -80,8 +64,7 @@ Update auf neuere Version mit Umstellung auf Kubernetes. Anbindung unseres LMS M
 
 <!-- Hier können Sie weitere Informationen zu Repo Klagenfurt hinzufügen -->
 
-## Graz-TU
-**OER-Repositorium der technischen Universität Graz**
+# Technische Universität Graz**
 
 **Konzept**
 
@@ -95,9 +78,7 @@ Update auf neuere Version mit Umstellung auf Kubernetes. Anbindung unseres LMS M
 
 <!-- Hier können Sie weitere Informationen zu Repo Graz2 hinzufügen -->
 
-## Wien
-
-**OER-Repositorium der Universität Wien**
+# Universität Wien**
 
 **Konzept**
 

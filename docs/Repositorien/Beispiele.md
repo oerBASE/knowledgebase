@@ -34,21 +34,21 @@ Das Repositorium wird über die OAI-PMH Schnittstelle geharvestet. Wir wissen, d
 
 ## Universität Graz
 
-OER-Repositorium der Universität Graz: [https://oer-portal.uni-graz.at/edu-sharing/](https://oer-portal.uni-graz.at/edu-sharing/)
+OER-Portal der Universität Graz: [https://oer-portal.uni-graz.at/edu-sharing/](https://oer-portal.uni-graz.at/edu-sharing/)
 
 **Konzept:**
-Ist das Edusharing Repo der Universität Graz. Eingerichtet mit Hilfe von Metaventis und läuft derzeit mit der Version 6.0.11. Auth über Shibboleth für UniGraz User. Normale User haben sehr beschränkte Rechte. Erhöhte Rechte für den Datei/OER Upload müssen gesondert angefragt werden. Veröffentlichte OER werden nachträglich sporadisch auf Vollständigkeit und Korrektheit überprüft.
+Ist das edu-sharing-Repositorium der Universität Graz. Das Repo wurde mit Hilfe von metaVentis eingerichtet und läuft derzeit mit der Version 6.0.11. Die Authentifizierung erfolgt über Shibboleth für Angehörige der Universität Graz. Normale User*innen haben sehr beschränkte Rechte, erweiterte Rechte für das Anlegen von OER müssen gesondert angefragt werden. Veröffentlichte OER werden nachträglich auf Vollständigkeit und Korrektheit überprüft.
 
 **Anbindung an externe Systeme:**
-- [www.oerhub.at](www.oerhub.at) über OAI-PMH
-- [www.oersi.de](www.oersi.de) über OAI-PMH
-- Externes ILIAS
-- [www.edutags.de](www.edutags.de) über selbstgeschriebenes spring boot projekt als rss feed
-- [www.bildungsserver.de](www.bildungsserver.de) über selbstgeschriebenes spring boot projekt als xml im format elixier
+- [www.oerhub.at](https://www.oerhub.at) über OAI-PMH
+- [www.oersi.de](https://www.oersi.de) über OAI-PMH
+- [Plattform der Stiftung SPI](https://www.plattform-spi.de/) über ILIAS-Plugin von edu-sharing
+- [www.edutags.de](https://www.edutags.de) über selbstgeschriebenes Spring-Boot-Projekt als RSS-Feed
+- [www.bildungsserver.de](https://www.bildungsserver.de) über selbstgeschriebenes Spring-Boot-Projekt als XML im Format Elixier
 
 **Setup**
-Geplant (Q1/24):
-Update auf neuere Version mit Umstellung auf Kubernetes. Anbindung unseres LMS Moodle (metaventis hat tinymce editor plugin geplant)
+Geplant (2024):
+Update auf neuere Version mit Umstellung auf Kubernetes. Anbindung an das LMS Moodle (nach Verfügbarkeit des Moodle/TinyMCE-Plugins)
 
 ## Universität Klagenfurt
 

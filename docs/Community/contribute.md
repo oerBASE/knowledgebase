@@ -9,7 +9,7 @@ Hier entsteht eine Sammlung von Community Activies im Kontext OER:
 - OER Infrastruktur Barcamp 2022 "are we OER yet?"
   - [Website](https://oerbase.github.io/Barcamp/)
   - Sessions zu: Externe Ressourcen in Repositorien, OER Produktion, Technische Umsetzung von Repositorien, Software im Vergleich, Modulare Gestaltung von Lernmaterial, 
-Mehrsprachige Metadaten (im OERhub), Wie kann ich Mitarbeiter:innen für OER Weiterbildung motivieren?,Persistent IDs und Kontrollierte Vocabularies, #metadatalove
+Mehrsprachige Metadaten (im OERhub), "Wie kann ich Mitarbeiter:innen für OER Weiterbildung motivieren?", Persistente IDs und Kontrollierte Vocabularien, #metadatalove
 
 - OER Infrastruktur Barcamp 2023 "whatever works"
   - [Website](https://oerbase.github.io/Barcamp2/barcamp-2/)

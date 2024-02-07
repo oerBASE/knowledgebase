@@ -16,8 +16,7 @@ Mehrsprachige Metadaten (im OERhub), "Wie kann ich Mitarbeiter:innen für OER We
   - Sessions zu: OER und Marketing, Repos und Metadaten, CC Lizenzen (Fokus Österreich), Dokumentation OERhub und Zukunft des OERhub, OER Praxis, OER Policy, Redaktion und Qualitätssicherung, OER und generative KI
 
 **OER Barcamp #OERcamp**
-
-[Website](https://www.oercamp.de/)
+- [Website](https://www.oercamp.de/)
 
 
 ## Arbeitsgruppen zu OER

@@ -2,7 +2,7 @@
 
 Freie Bildungsmaterialien leben von gemeinschaftlichem Beitragen auf allen Ebenen - sei es in der Produktion von Content, im Austausch von Erfahrung oder Metadaten oder auch in der Bereitstellung von technische oder organistorischer Infrastruktur. 
 
-Hier entsteht eine Sammlung von Community Activies im Kontext OER: 
+Diese Sektion bietet eine Übersicht über verschiedene Treffen und Arbeitsgruppen, die sich auf Open Educational Resources (OER) und die dazugehörigen Repositorien konzentrieren. Ziel dieser Gruppen ist es, die Verfügbarkeit, Zugänglichkeit und Nutzung von Lehr- und Lernmaterialien zu verbessern, die offen linzensiert sind. Die Arbeitsgruppen umfassen ein breites Spektrum an Aktivitäten, von der technischen Entwicklung von OER-Repositories bis hin zur Förderung pädagogischer Innovationen durch offene Bildungsressourcen.
 
 ## Tagungen und Barcamps
 

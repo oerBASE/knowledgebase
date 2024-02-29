@@ -37,7 +37,7 @@ Das Repositorium wird über die OAI-PMH Schnittstelle geharvestet. Wir wissen, d
 OER-Portal der Universität Graz: [https://oer-portal.uni-graz.at/edu-sharing/](https://oer-portal.uni-graz.at/edu-sharing/)
 
 **Konzept:**
-Ist das edu-sharing-Repositorium der Universität Graz. Das Repo wurde mit Hilfe von metaVentis eingerichtet und läuft derzeit mit der Version 6.0.11. Die Authentifizierung erfolgt über Shibboleth für Angehörige der Universität Graz. Normale User*innen haben sehr beschränkte Rechte, erweiterte Rechte für das Anlegen von OER müssen gesondert angefragt werden. Veröffentlichte OER werden nachträglich auf Vollständigkeit und Korrektheit überprüft.
+Ist das edu-sharing-Repositorium der Universität Graz. Das Repo wurde mit Hilfe von metaVentis eingerichtet und läuft derzeit mit der Version 6.0.11. Die Authentifizierung erfolgt über Shibboleth für Angehörige der Universität Graz. Normale User:innen haben sehr beschränkte Rechte, erweiterte Rechte für das Anlegen von OER müssen gesondert angefragt werden. Veröffentlichte OER werden nachträglich auf Vollständigkeit und Korrektheit überprüft.
 
 **Anbindung an externe Systeme:**
 - [www.oerhub.at](https://www.oerhub.at) über OAI-PMH
@@ -48,7 +48,7 @@ Ist das edu-sharing-Repositorium der Universität Graz. Das Repo wurde mit Hilfe
 
 **Setup**
 Geplant (2024):
-Update auf neuere Version mit Umstellung auf Kubernetes. Anbindung an das LMS Moodle (nach Verfügbarkeit des Moodle/TinyMCE-Plugins)
+Update auf neuere Version mit Umstellung auf Kubernetes. Anbindung an das LMS Moodle (nach Verfügbarkeit des Moodle/TinyMCE-Plugins).
 
 ## Universität Klagenfurt
 
@@ -64,7 +64,7 @@ Update auf neuere Version mit Umstellung auf Kubernetes. Anbindung an das LMS Mo
 
 <!-- Hier können Sie weitere Informationen zu Repo Klagenfurt hinzufügen -->
 
-## Technische Universität Graz**
+## Technische Universität Graz
 
 **Konzept**
 
@@ -78,7 +78,7 @@ Update auf neuere Version mit Umstellung auf Kubernetes. Anbindung an das LMS Mo
 
 <!-- Hier können Sie weitere Informationen zu Repo Graz2 hinzufügen -->
 
-## Universität Wien**
+## Universität Wien
 
 **Konzept**
 

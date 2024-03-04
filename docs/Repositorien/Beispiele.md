@@ -84,14 +84,35 @@ Ist das edu-sharing-Repositorium der Universität Graz. Das Repo wurde mit Hilfe
 
 ## Universität Wien
 
-**Konzept**
+**Konzept** 
+https://github.com/phaidra/phaidra
+PHAIDRA ist ein Repositorium zur dauerhaften Sicherung von digitalen Beständen an der Universität Wien. Dies schließt Forschungsdaten, offene Bildungsressourcen und sonstige Materialien ein. Wissenschaftliche Dokumente und Materialien der Universität Wien wie Zeitschriftenartikel (auch Pre- und Postprints), Monographien und Sammelwerke (oder Einzelbeiträge aus diesen), Kongressmaterialien, Forschungsberichte, Working Papers u. Ä., werden über die Oberfläche https://uscholar.univie.ac.at/ hochgeladen und in PHAIDRA langzeitarchiviert.
+
+PHAIDRA kann von allen Mitarbeiter*innen und Studierenden der Universität Wien aktiv genutzt werden. Es stehen mehr als 50 Metadatenfelder zur Verfügung (davon 8 Pflichtfelder), die in Ebenen organisiert werden können (Metadaten digitaler Objekte vs. Metadaten dargestellter Objekte). Es gibt sowohl einfache (z. B. Video) als auch komplexe Objekttypen (z. B. Container). Es können mehrere Beziehungen verwendet werden, z. B. um Sammlungen zu erstellen (um Objekte hierarchisch oder in Mengen zu organisieren), verschiedene Objektversionen oder -formate zu verbinden, usw. 
+
+Offene Bildungsressourcen können ab März 2024 über ein eigenes Submit Form hochgeladen werden, das alle Pflichtfelder laut der Dokumentation des OERhub vorsieht: https://www.openeducation.at/fileadmin/user_upload/OEA_TwoPager_Voraussetzungen_und_Vorgaben_f%C3%BCr_die_Anbindung_an_den_OERhub.pdf . Objekte in PHAIDRA werden mit einem persistenten Identifier versehen (handle; auf Wunsch DOI). 
+
+PHAIDRA verwendet primär das Metadatenschema JSON-LD, unterstützt aber auch UWMETADATA (LOM-basiert) und MODS.
+
+Weitere Informationen entnehmen Sie bitte der offiziellen PHAIDRA-Dokumentation: https://www.phaidra.org/docs/overview/ 
 
 **LMS**
 
 **Einschränkungen**
+Nutzer*innen können bereits hochgeladene Objekte nicht selbständig löschen. Metadaten sind immer nach außen sichtbar - auch wenn der Zugriff eingeschränkt wurde, weil es sich z. B. um sensible Daten handelt. PHAIDRA beinhaltet nicht nur offene Bildungsressourcen.  
 
 **Anbindungen**
+Auf PHAIDRA-Objekte kann auf verschiedene Arten zugegriffen werden:
+* Benutzeroberfläche und SEO
+* Harvesting: Eine OAI-PMH-Schnittstelle steht zur Verfügung, mit den Formaten oai_dc und oai_openaire. Das dcterms-Format wird in Zukunft hinzugefügt.
+* Integrationen: PHAIDRA-API 
+Siehe auch die Open-API-Dokumentation des API: https://github.com/phaidra/phaidra-api/blob/master/public/docs/openapi.json und die PHAIDRAorg Webseite: https://www.phaidra.org/docs/api/#creating-simple-objects .
 
 **Setup**
+- **Software**: Fedora repository https://fedora.lyrasis.org/ 
+- Der Betrieb und die Weiterentwicklung der auf Open Source basierenden Software erfolgt an der Universität Wien.
+- **Authentifizierung:** Shibboleth
+- **Software Version:** Fedora Version 3.8 und 6+
+
 
 <!-- Hier können Sie weitere Informationen zu Repo WIen hinzufügen -->

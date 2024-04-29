@@ -2,10 +2,16 @@
 
 hier entsteht eine Seite mit Informationen zu: 
 
-
 - Metadaten-Schemata für OER
 - Vokabularien
 - Voraussetzungen für die Anbindung an Aggregatoren
+
+# LOM-UIBK Applikationsprofil
+
+https://oer-repo.uibk.ac.at/lom/latest/
+
+
+Dieses XML Metadatenprofil dient zur Beschreibung für Open Educational Resources im österreichischen Hochschulbereich. Es ist eine Anpassung des Metadatenprofils LOM for Higher Education OER Repositories der dini-ag-kim und versucht zum Zwecke maximaler Interoperabilität sich möglichst an diesem zu orientieren.
 
 ## Zum Nachlesen
 
